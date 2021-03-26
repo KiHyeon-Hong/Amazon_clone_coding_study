@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+============================================================
+
+- npx create-react-app amazon-clone
+- npm start : react 시작하기
+- sudo npm install -g firebase-tools : 파이어 베이스 연동을 위한 모듈?
+
+============================================================
+
+- prettier : 코드를 이쁘게 보기 위한 모듈
+- ES7 React/Redux/GraphQL/React-Native snippets :
+
+============================================================
+
+- material-ui.com
+- npm install @material-ui/core : 아이콘을 얻기 위한 npm
+- npm install @material-ui/icons : 아이콘 얻기 위한 npm
+
+============================================================
+
+- npm install react-router-dom : 라우터를 위한 npm
+- npm install react-currency-format :
