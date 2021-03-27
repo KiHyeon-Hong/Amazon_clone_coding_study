@@ -7,7 +7,7 @@ function Checkout() {
     return (
         <div className="checkout">
             <div className="checkout_left">
-                <img className="checkout_ad" src="https://ssl.nx.com/s2/game/maplestory/renewal/common/logo.png" alt="" />
+                <img className="checkout_ad" src="https://upload3.inven.co.kr/upload/2021/01/07/bbs/i14551385490.jpg" alt="" />
             
                 <div>
                     <h2 className="checkout_title">basket</h2>
