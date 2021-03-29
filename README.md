@@ -96,3 +96,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Add to basket button을 클릭하면 the data layer -> react context API / redux에 들어가고, 위 장바구니 개수가 1개 증가하게 만들어야 함
 
 - npm install firebase
+
+============================================================
+
+- firebase init (firebase 명령어를 사용하려면? -g로 설치를 해야 한다?)
+- npm run build : 배포, build directory
+- firebase deploy
+
+hosting url이 생긴다.
+
+============================================================
