@@ -106,3 +106,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 hosting url이 생긴다.
 
 ============================================================
+
+- react flip move? : 움직이는 애니메이션?
+-

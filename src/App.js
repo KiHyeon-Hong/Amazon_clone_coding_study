@@ -6,6 +6,7 @@ import Header from './Header';
 import Home from './Home'
 import Checkout from './Checkout'
 import Login from './Login'
+import Payment from './Payment'
 
 import React, {useEffect} from "react";
 import {auth} from "./firebase";
@@ -21,7 +22,7 @@ function App() {
     //will only run once when the the app compnent loads
     auth.onAuthStateChanged(authUser => {
       console.log('The user is >>>', authUser);
-      
+
       if(authUser) {
         //the user just logged in / the user was logged in
         dispatch({
@@ -51,6 +52,10 @@ function App() {
           <Route path="/checkout">
             <Header />
             <Checkout />
+          </Route>
+          <Route path="/payment">
+            <Header />
+            <Payment />
           </Route>
           <Route path="/">
             <Header />
