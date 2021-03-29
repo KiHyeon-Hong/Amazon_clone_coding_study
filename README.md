@@ -89,4 +89,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ============================================================
 
 - npm install react-router-dom : 라우터를 위한 npm
-- npm install react-currency-format :
+- npm install react-currency-format : 입력 포맷을 도와줌
+
+============================================================
+
+- Add to basket button을 클릭하면 the data layer -> react context API / redux에 들어가고, 위 장바구니 개수가 1개 증가하게 만들어야 함
+
+- npm install firebase
