@@ -127,3 +127,27 @@ hosting url이 생긴다.
 
 - npm install axios : REST API 지원? fetch와 axios 차이 나중에 알아 볼 것
 - axios, fetch, request? 차이점
+
+============================================================
+
+- firebase init
+- functions: Configure and deploy cloud function 선택
+- javascript 선택
+- y 선택
+- Y 선택
+- 올라간다
+
+============================================================
+
+- src : app(front-end)
+- functions : full back-end (cloud function)
+
+============================================================
+
+- npm install express
+- npm install stripe
+
+============================================================
+
+- secret key : reveal test key token
+- firebase emulators:start
