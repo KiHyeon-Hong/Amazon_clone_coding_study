@@ -111,5 +111,19 @@ hosting url이 생긴다.
 
 ============================================================
 
--
--
+- npm install @stripe/stripe-js
+- npm install @stripe/react-stripe-js
+- https://stripe.com/ : 결제 API 사용법
+- 이번 프로젝트에서는 실제로 코딩하지는 않겠다
+
+============================================================
+
+<Stripe 사용법>
+
+- publishable key : 중요함
+- developers를 들어가보면?
+
+============================================================
+
+- npm install axios : REST API 지원? fetch와 axios 차이 나중에 알아 볼 것
+- axios, fetch, request? 차이점

@@ -12,7 +12,10 @@ import React, {useEffect} from "react";
 import {auth} from "./firebase";
 import { useStateValue } from './StateProvider';
 
+import { loadStripe } from "@stripe/stripe-js";
+import { Elements } from "@stripe/react-stripe-js";
 
+const promise = loadStripe('나의 퍼블릭 키를 넣습니다');
 
 function App() {
 
@@ -55,7 +58,9 @@ function App() {
           </Route>
           <Route path="/payment">
             <Header />
-            <Payment />
+            <Elements stripe={promise}>
+              <Payment />
+            </Elements>
           </Route>
           <Route path="/">
             <Header />
