@@ -151,3 +151,7 @@ hosting url이 생긴다.
 
 - secret key : reveal test key token
 - firebase emulators:start
+
+============================================================
+
+- npm install moment
