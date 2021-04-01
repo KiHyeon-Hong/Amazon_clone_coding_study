@@ -155,3 +155,9 @@ hosting url이 생긴다.
 ============================================================
 
 - npm install moment
+
+============================================================
+
+- firebase deploy --only functions
+- npm run build
+- firebase deploy --only hosting
