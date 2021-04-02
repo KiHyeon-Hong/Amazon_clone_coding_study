@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KiHyeon-Hong/amazon_clone_coding_study/static/css/main.d9716533.chunk.css",
+    "main.js": "/KiHyeon-Hong/amazon_clone_coding_study/static/js/main.9e0fa183.chunk.js",
+    "main.js.map": "/KiHyeon-Hong/amazon_clone_coding_study/static/js/main.9e0fa183.chunk.js.map",
+    "runtime-main.js": "/KiHyeon-Hong/amazon_clone_coding_study/static/js/runtime-main.7d6d6b4d.js",
+    "runtime-main.js.map": "/KiHyeon-Hong/amazon_clone_coding_study/static/js/runtime-main.7d6d6b4d.js.map",
+    "static/js/2.70700134.chunk.js": "/KiHyeon-Hong/amazon_clone_coding_study/static/js/2.70700134.chunk.js",
+    "static/js/2.70700134.chunk.js.map": "/KiHyeon-Hong/amazon_clone_coding_study/static/js/2.70700134.chunk.js.map",
+    "static/js/3.ebd3e855.chunk.js": "/KiHyeon-Hong/amazon_clone_coding_study/static/js/3.ebd3e855.chunk.js",
+    "static/js/3.ebd3e855.chunk.js.map": "/KiHyeon-Hong/amazon_clone_coding_study/static/js/3.ebd3e855.chunk.js.map",
+    "index.html": "/KiHyeon-Hong/amazon_clone_coding_study/index.html",
+    "static/css/main.d9716533.chunk.css.map": "/KiHyeon-Hong/amazon_clone_coding_study/static/css/main.d9716533.chunk.css.map",
+    "static/js/2.70700134.chunk.js.LICENSE.txt": "/KiHyeon-Hong/amazon_clone_coding_study/static/js/2.70700134.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/KiHyeon-Hong/amazon_clone_coding_study/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d6d6b4d.js",
+    "static/js/2.70700134.chunk.js",
+    "static/css/main.d9716533.chunk.css",
+    "static/js/main.9e0fa183.chunk.js"
+  ]
+}
