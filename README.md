@@ -161,3 +161,11 @@ hosting url이 생긴다.
 - firebase deploy --only functions
 - npm run build
 - firebase deploy --only hosting
+
+============================================================
+
+- npm install --save-dev gh-pages
+- "deploy": "npm run build &&gh-pages -d build"
+- npm run deploy
+- 이전에 GitHub Pages 열어야 함
+- "homepage": "https://kihyeon-hong.github.io/amazon_clone_coding_study/"
