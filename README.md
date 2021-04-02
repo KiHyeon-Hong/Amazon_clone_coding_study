@@ -169,3 +169,4 @@ hosting url이 생긴다.
 - npm run deploy
 - 이전에 GitHub Pages 열어야 함
 - "homepage": "https://kihyeon-hong.github.io/amazon_clone_coding_study/"
+- Github Pages : gh-pages로 변경
